@@ -1,2 +1,2 @@
 # web-design-project
-snake oilprject for school
+snake oil project for school
